@@ -27,3 +27,4 @@ public interface CustomerDao {
 	//客户行业统计
 	List<Object[]> findByindustry();
 }
+//zgs
